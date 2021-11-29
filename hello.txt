@@ -1,1 +1,2 @@
-Hi
+Hi <i class="fa fa-jpy" aria-hidden="true"></i>
+hello
